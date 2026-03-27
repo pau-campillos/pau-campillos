@@ -3,11 +3,11 @@
 👨‍💻 **Estudiante de 3º de Ingeniería Informática** apasionado por la resolución de problemas, la algoritmia y el desarrollo de software. Buscando activamente una **oportunidad de prácticas para este verano** donde pueda aportar valor al equipo y seguir creciendo profesionalmente.
 
 ## 🛠️ Mi Stack Tecnológico
-- **Lenguajes principales:** Java, C++, HTML/CSS
-- **Herramientas & Entornos:** Git, GitHub, NetBeans
+- **Lenguajes principales:** Java, C++, HTML/CSS, Python
+- **Herramientas & Entornos:** Git, GitHub, NetBeans, React, Visual Studio
 
 ## 🚀 Proyectos Destacados (Mis "Greatest Hits")
-Durante la carrera me he peleado con estructuras de datos, heurísticas y lógica de bots. Aquí tienes un resumen de lo que sé hacer:
+Durante la carrera he trabajado con estructuras de datos, heurísticas, lógica de bots, bases de datos entre muchas otras cosas. Aquí tienes un resumen de lo que sé hacer:
 
 * ✈️ [**AirPlanner**](https://github.com/Cano-3/AirPlanner): Trabajo colaborativo con integración de código. +30 commits y múltiples Pull Requests gestionadas en equipo.
 * 🤖 [**BOT-OUST-PROP**](https://github.com/pau-campillos/BOT-OUST-PROP-NetBeans): Desarrollo de lógica de juego e implementación de bots estructurados en Java.
