@@ -14,11 +14,5 @@ Durante la carrera he trabajado con estructuras de datos, heurísticas, lógica 
 * 🤖 [**BOT-conecta4-PROP**] `Java` `HTML` (https://github.com/pau-campillos/conecta4-Bot-PROP-netBeans) : Desarrollo de lógica de juego basada en HTML e implementación de bots estructurados en Java.
 * 🧩 [**Heurística Laberinto**] `Java` `HTML` (https://github.com/pau-campillos/Heuristica-Laberinto-PROP-netBeans): Aplicación de algoritmos de búsqueda y pathfinding para la resolución de laberintos.
 * 💻 [**Proyecto ESIN**] `C++` (https://github.com/pau-campillos/Proyecto-ESIN-terminal_contenedores): Diseño e implementación de estructuras de datos avanzadas y gestión de memoria en C++.
-
-## 📈 Mis Estadísticas en GitHub
-![Estadísticas de Pau](https://github-readme-stats.vercel.app/api?username=pau-campillos&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pau-campillos&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 📫 **¿Conectamos?** Puedes encontrarme en [LinkedIn](PON_AQUI_TU_ENLACE) o escribirme directamente a PON_AQUI_TU_CORREO@email.com.
