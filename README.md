@@ -14,5 +14,8 @@ Durante la carrera he trabajado con estructuras de datos, heurísticas, lógica 
 * 🤖 [**BOT-conecta4-PROP**] `Java` `HTML` (https://github.com/pau-campillos/conecta4-Bot-PROP-netBeans) : Desarrollo de lógica de juego basada en HTML e implementación de bots estructurados en Java.
 * 🧩 [**Heurística Laberinto**] `Java` `HTML` (https://github.com/pau-campillos/Heuristica-Laberinto-PROP-netBeans): Aplicación de algoritmos de búsqueda y pathfinding para la resolución de laberintos.
 * 💻 [**Proyecto ESIN**] `C++` (https://github.com/pau-campillos/Proyecto-ESIN-terminal_contenedores): Diseño e implementación de estructuras de datos avanzadas y gestión de memoria en C++.
+* 🥗 [**Proyecto PTIN - Cal Blay**] `C++` (https://github.com/PTIN-Projecte): Diseño e implementación frontend y backend para un programa que te recomiende el mejor menu para contentar al cliente y ahorrar costes.
+  
 ---
+
 📫 **¿Conectamos?** Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/pau-campillos/) o escribirme directamente a paucampillos@gmail.com
